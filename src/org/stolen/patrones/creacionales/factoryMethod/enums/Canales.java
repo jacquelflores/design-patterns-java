@@ -1,4 +1,4 @@
-package org.stolen.patrones.creacionales.factoryMethod;
+package org.stolen.patrones.creacionales.factoryMethod.enums;
 
 public enum Canales {
     EMAIL("email"),

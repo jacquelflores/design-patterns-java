@@ -1,6 +1,6 @@
 package org.stolen.patrones.creacionales.factoryMethod.app;
 
-import org.stolen.patrones.creacionales.factoryMethod.Canales;
+import org.stolen.patrones.creacionales.factoryMethod.enums.Canales;
 import org.stolen.patrones.creacionales.factoryMethod.interfaces.INotificacion;
 import org.stolen.patrones.creacionales.factoryMethod.model.FabricaNotificacion;
 
